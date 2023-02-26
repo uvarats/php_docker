@@ -1,0 +1,3 @@
+POSTGRES_USER=league
+POSTGRES_PASSWORD=!ChangeMe!
+POSGRES_DB=league
